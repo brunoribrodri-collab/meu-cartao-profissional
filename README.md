@@ -9,7 +9,6 @@ O objetivo principal deste projeto foi aplicar, na prática, os fundamentos inic
 A página consiste em um cartão de visitas digital responsivo e moderno, apresentando:
 - **Perfil Profissional:** Nome, cargo/área de atuação e uma breve descrição acadêmica e profissional.
 - **Identidade Visual Customizada:** Design limpo em modo escuro (*Dark Mode*), otimizado para leitura.
-- **Links de Contato:** Botões interativos que direcionam o visitante para redes profissionais e portfólios.
 
 ## 🛠️ Tecnologias Utilizadas
 - **HTML5:** Utilizado para a marcação estrutural e semântica de todos os elementos textuais e links.
